@@ -1,2 +1,3 @@
-# optimization-roi-telemarketing-deposit-
-Optimasi kampanye perbankan via Smart Lead Prioritization. Mengganti strategi 'blind-calling' dengan seleksi nasabah berbasis predictive scoring. Kami memprioritaskan profil dengan probabilitas konversi tertinggi serta membatasi biaya operasional. Hasilnya: eliminasi pemborosan anggaran &amp; fokus pada nasabah yang paling profitabel.
+# Optimization of Bank Telemarketing ROI
+
+Optimizing bank campaigns via Smart Lead Prioritization. We replaced the traditional 'blind-calling' strategy with predictive scoring—prioritizing high-probability profiles and capping operational costs. The ultimate result: zero budget waste and a laser focus on the most profitable customers.
